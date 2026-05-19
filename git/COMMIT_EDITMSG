@@ -1,0 +1,45 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	renamed:    practice06/practice07/title.txt -> output/title.txt
+#	new file:   practice02/project_structure.svg
+#	new file:   practice06/output/title.txt
+#	modified:   practice06/test_chained_calls.py
+#
+# Changes not staged for commit:
+#	modified:   practice01/llm_client.py
+#	deleted:    practice02.1/__init__.py
+#	deleted:    practice02.1/chat_with_tools.py
+#	deleted:    practice02.1/file_tools.py
+#	deleted:    practice03/chat_with_5w_and_search.py
+#	deleted:    practice03/chat_with_summary.py
+#	deleted:    practice04/README.md
+#	deleted:    practice04/chat_with_5w_and_search.py
+#	deleted:    practice04/chat_with_anythingllm.py
+#	modified:   practice04/chat_with_summary.py
+#	modified:   practice05/README.md
+#	deleted:    practice05/chat_with_skills.py
+#	deleted:    practice05/test_chat.py
+#	deleted:    practice05/test_skills.py
+#	modified:   practice06/README.md
+#	deleted:    practice06/chat_with_chained_calls.py
+#	deleted:    practice06/output/title.txt
+#	deleted:    practice06/test_chained_calls.py
+#
+# Untracked files:
+#	practice03/__init__.py
+#	practice03/chat_with_tools.py
+#	practice03/file_tools.py
+#	practice04/chat_with_search.py
+#	practice05/chat_with_5w_and_search.py
+#	practice05/chat_with_anythingllm.py
+#	practice05/chat_with_summary.py
+#	practice06/chat_with_skills.py
+#	practice06/test_chat.py
+#	practice06/test_skills.py
+#	practice07/
+#	report.md
+#
